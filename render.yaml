@@ -37,3 +37,7 @@ services:
         value: https://recruitr-workspaces.onrender.com
       - key: VIKUNJA_FILES_BASEPATH
         value: /tmp/vikunja/files
+      - key: VIKUNJA_FRONTEND_THEME
+        value: auto
+      - key: VIKUNJA_FRONTEND_DEFAULT_LANGUAGE
+        value: en
