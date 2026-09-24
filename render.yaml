@@ -35,3 +35,5 @@ services:
         value: Recruitr Workspaces
       - key: VIKUNJA_SERVICE_PUBLICURL
         value: https://recruitr-workspaces.onrender.com
+      - key: VIKUNJA_FILES_BASEPATH
+        value: /tmp/vikunja/files
